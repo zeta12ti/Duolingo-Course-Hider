@@ -1,5 +1,5 @@
 # Extra Course Hider
-On 2017/06/19, the new site received an update that caused all your current courses to be shown by default. This basically makes this script obselete. If you still prefer the layout used here (with each base language listed separately) you can continue to use the script. It may break due to the changes to the site, and I probably won't update it dramatically.
+On 2017/06/19, the new site received an update that caused all your current courses to be shown by default. This basically makes the Duolingo Course Switcher script obselete. If you still prefer the layout used here (with each base language listed separately) you can continue to use the script. It may break due to the changes to the site, and I probably won't update it dramatically.
 
 However, this new update introduced a new annoyance. Since it's impossible to remove the last course for a given base language, there may be extraneous courses shown. I've added a new script (HideExtraCourses.user.js) to remove those courses. For now, it'll take a bit of manual work to get it set up.
 
