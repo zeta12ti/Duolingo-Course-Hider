@@ -18,7 +18,7 @@ However, this new update introduced a new annoyance. Since it's impossible to re
 1. Go to https://www.duolingo.com/ and take note of which courses are unnecessary. 
 2. For each extra course, copy down the flag code for the base language. A complete list of flag codes can be found [here](https://github.com/zeta12ti/DuolingoCourseSwitcher/blob/master/FlagCodes.txt).
 3. Edit the user script. The way to do this varies by browser. Google is your friend.
- * In Firefox, open the Add-ons menu, click on the Greasemonkey tab, find the HideExtraCourses script, click preferences, then click Edit this User Script.
+ * In Firefox, open the Add-ons menu, click on the User Scripts tab, find the HideExtraCourses script, click preferences, then click Edit this User Script.
  * In Chrome and Chromium, open the Extensions menu, find the Tampermonkey extension. Click on Options to open the Tampermonkey interface. Click on the Installed User Scripts tab, then click on the HideExtraCourses script.
 4. Edit lines 13-15 to include only the flag codes for the courses you want hidden. By default, three courses are hidden and you may delete them if you wish. Every line except the last should have a comma. Everything after the // is optional.
 5. If you ever wish to show courses from a specific base language again, delete the corresponding flag code in the script source. Make sure every line but the last has a comma.
