@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        HideExtraCourses
-// @namespace   https://www.github.com/zeta12ti/DuolingoCourseSwitcher
+// @name        Hide Extra Courses
+// @namespace   https://github.com/zeta12ti/Duolingo-Course-Hider
 // @description Hides extra courses from the update introduced in the update on 2017/06/19.
 // @include     https://*.duolingo.com/*
 // @version     1.1
